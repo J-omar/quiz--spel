@@ -1,0 +1,30 @@
+[
+  { "question": "Vilken färg har himlen?",
+    "options": ["Blå", "Grön", "Röd"],
+    "answer": "Blå" },
+
+  { "question": "Vad är huvudstaden i Sverige?",
+    "options": ["Göteborg", "Malmö", "Stockholm"],
+    "answer": "Stockholm" },
+
+  { "question": "Vad är 4+3*8/2?",
+    "options": ["2", "16", "18"],
+    "answer": "16" },
+
+  { "question": "Vilket år blev Sverige självständigt?",
+    "options": ["1523", "1809", "1905"],
+    "answer": "1523" },
+
+  { "question": "Hur många kontinenter finns det?",
+    "options": ["5", "6", "7"],
+    "answer": "7" },
+
+  { "question": "När började första världskriget?",
+    "options": ["1923", "1909", "1914"],
+    "answer": "1914" },
+
+  { "question": "Hur många invånare har Sverige?",
+    "options": ["10,5 miljoner", "15,5 miljoner", "8 miljoner"],
+    "answer": "10,5 miljoner" }
+]
+  
